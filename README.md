@@ -2,6 +2,7 @@ This web-based form was created to showcase my understanding of JavaScript form 
 <img width="543" alt="image" src="https://github.com/user-attachments/assets/d445edd9-880a-403c-b254-239fea1e53d6">
 
 ## Key Project Instructions
+
 -**Form Field: The form include the following inputs fields:
   - First Name
   - Last Name
