@@ -3,7 +3,7 @@ This web-based form was created to showcase my understanding of JavaScript form 
 
 ## Key Project Instructions
 
--Form Field: The form include the following inputs fields:
+-**Form Field: The form include the following inputs fields:
   - First Name
   - Last Name
   - Email Address
