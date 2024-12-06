@@ -11,12 +11,12 @@ This web-based form was created to showcase my understanding of JavaScript form 
   - Password
   - Password Confirmation
 
-- **Inline Validation**: Real-time validation is implemented for each field, with visual cues indicating the validation status (valid or invalid).
+-**Inline Validation**: Real-time validation is implemented for each field, with visual cues indicating the validation status (valid or invalid).
 
-- **JavaScript Validation**: All form fields are validated using JavaScript only.
+-**JavaScript Validation**: All form fields are validated using JavaScript only.
 
-- **Submit Action**: The submit button simulates a functional action, though it does not trigger an actual form submission.
+-**Submit Action**: The submit button simulates a functional action, though it does not trigger an actual form submission.
 
-- **Error Messages**: If any fields are left empty or contain invalid data, error messages will be displayed upon submission.
+-**Error Messages**: If any fields are left empty or contain invalid data, error messages will be displayed upon submission.
 
-- **Success Message**: A success message is shown when all fields are validated correctly.
+-**Success Message**: A success message is shown when all fields are validated correctly.
