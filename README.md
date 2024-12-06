@@ -1,6 +1,7 @@
-##Form Validation of Javascript##
+## Form Validation of Javascript
 
 This web-based form was created to showcase my understanding of JavaScript form validation, a lesson from The Odin Project.
+
 <img width="543" alt="image" src="https://github.com/user-attachments/assets/d445edd9-880a-403c-b254-239fea1e53d6">
 
 ## Key Project Instructions
